@@ -1,10 +1,11 @@
 # Free.99 
 
-Free resources that I've collected over the years, to help others learn to program
+Free resources collected over the years, to help others learn to program
 
 ## The Approach
 
-As time go on, I will write less (to let you stand on your own and because I have to type all of this)
+As time go on, the instruction will be less and less
+(to let you stand on your own and because this need to be all typed out)
 
 ### Practice before Theory:
 
@@ -20,7 +21,7 @@ Some of these resources are meant to test your capacity to be resourceful, creat
 
 Any seasoned programmer will admit there's nothing special about some of these resources.
 
-What I've observed from developing this curriculum is to...
+What has been observed from developing this curriculum is to...
 
 > 
 > If this is not for you
@@ -38,26 +39,26 @@ Have fun!
 
 I can provide you with 2
 
-- I'm already putting this together
-- My advice: "Put regular time aside"
+- Putting this together
+- "Put regular time aside"
 
-No more help from me, that's why it's free
+No more help, that's why it's free
 
-### The order is importance ~~to me~~
+### The order is of importance
 
-Follow it... or not
+Follow it... or not, that's up to you
 
 
 ## The Catch
 
-I've thought myself on free information, but I'm aware **it's not easy**.
-
-If you need a course to get started, **you will need someone to help**.
+> I've thought myself on free information, but I'm aware **it's not easy**.
+>
+> If you need a course to get started, **you will need someone to help**.
 
 
 ## The Reality
 
-It's free because I believe you will need my help.
+It's free because I believe you will need help.
 
 ### ["[The majority] could [not] make a web page when tested"](https://youtu.be/Lf0t0cgErLQ)
 
@@ -68,4 +69,4 @@ starting at 2:25
 ](https://img.youtube.com/vi/Lf0t0cgErLQ/hqdefault.jpg)
 ](https://youtu.be/Lf0t0cgErLQ?t=145)
 
-...so, [_reach out_](https://patreon.com/programaz101)
+...so, [_reach out HERE_](https://patreon.com/programaz101)
